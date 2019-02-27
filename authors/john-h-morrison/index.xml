@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>John H Morrison on Academic</title>
+    <link>/authors/john-h-morrison/</link>
+    <description>Recent content in John H Morrison on Academic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 19 Sep 2018 12:50:03 -0700</lastBuildDate>
+    
+	<atom:link href="/authors/john-h-morrison/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Timing of cyclic estradiol treatment differentially affects cognition in aged female rhesus monkeys</title>
+      <link>/publication/e2-aged-monkeys/</link>
+      <pubDate>Wed, 19 Sep 2018 12:50:03 -0700</pubDate>
+      
+      <guid>/publication/e2-aged-monkeys/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
