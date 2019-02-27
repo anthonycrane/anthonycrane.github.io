@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Academic</title>
+    <link>/publication/</link>
+    <description>Recent content in Publications on Academic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Feb 2019 12:50:03 -0700</lastBuildDate>
+    
+	<atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The immutability of valence and arousal in the foundations of emotion</title>
+      <link>/publication/foundations-emotion/</link>
+      <pubDate>Fri, 01 Feb 2019 12:50:03 -0700</pubDate>
+      
+      <guid>/publication/foundations-emotion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Timing of cyclic estradiol treatment differentially affects cognition in aged female rhesus monkeys</title>
+      <link>/publication/e2-aged-monkeys/</link>
+      <pubDate>Wed, 19 Sep 2018 12:50:03 -0700</pubDate>
+      
+      <guid>/publication/e2-aged-monkeys/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Freeze-only versus fresh embryo transfer in a multicenter matched cohort study: contribution of progesterone and maternal age to success rates</title>
+      <link>/publication/freeze-only/</link>
+      <pubDate>Tue, 01 Aug 2017 12:50:03 -0700</pubDate>
+      
+      <guid>/publication/freeze-only/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The cumulative dose of gonadotropins used for controlled ovarian stimulation does not influence the odds of embryonic aneuploidy in patients with normal ovarian response</title>
+      <link>/publication/gnd-aneuploidy/</link>
+      <pubDate>Sat, 01 Jul 2017 12:50:03 -0700</pubDate>
+      
+      <guid>/publication/gnd-aneuploidy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The effects of neonatal amygdala or hippocampus lesions on adult social behavior</title>
+      <link>/publication/neonatal-adult-amygdala/</link>
+      <pubDate>Sat, 01 Jul 2017 12:50:03 -0700</pubDate>
+      
+      <guid>/publication/neonatal-adult-amygdala/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
