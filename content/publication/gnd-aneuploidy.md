@@ -18,7 +18,7 @@ authors = ["Lucky Sekhon", "Kathryn Shaia", "Anthony C Santistevan", "Karen Hunt
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Journal of assisted reproduction and genetics"
+publication = "Journal of Assisted Reproduction and Genetics"
 publication_short = ""
 
 # Abstract and optional shortened version.
