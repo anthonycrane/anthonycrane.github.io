@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>admin on Academic</title>
+    <title>admin on </title>
     <link>/authors/admin/</link>
-    <description>Recent content in admin on Academic</description>
+    <description>Recent content in admin on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
@@ -16,7 +16,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/author/admin/</guid>
-      <description>Anthony is a second-year doctoral student in Dr. Eliza Bliss-Moreau&amp;rsquo;s laboratory at UC Davis. His research focuses on the neurobiology of socio-affective behavior. Prior to embarking on his PhD, he previously worked as a data scientist in the health-tech world analyzing data related to fertility and oncology.</description>
+      <description>Anthony is a second-year doctoral student in Dr. Eliza Bliss-Moreau&amp;rsquo;s laboratory at UC Davis. His research focuses on how aging infulences socioaffective behavior.</description>
     </item>
     
   </channel>
