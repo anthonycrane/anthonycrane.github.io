@@ -9,7 +9,7 @@
 baseurl = "/"
 
 # Title of your site
-title = "Anthony Santistevan"
+title = ""
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -57,12 +57,12 @@ enableGitInfo = true
   font = "default"
 
   # Your details.
-  name = "Anthony Santistevan"
-  role = "Doctoral Student"
+  name = ""
+  role = ""
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "University of California, Davis", url = "" } ]
+  organizations = [ { name = "Bliss-Moreau Laboratory", url = "https://www.elizablissmoreau.com/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "profile.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.

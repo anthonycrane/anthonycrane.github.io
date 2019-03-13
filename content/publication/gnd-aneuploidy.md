@@ -43,7 +43,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "files/gnd-aneuploidy.pdf"
+url_pdf = "files/Sekhon, Santistevan, et al.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

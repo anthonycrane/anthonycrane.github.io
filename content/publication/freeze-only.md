@@ -43,7 +43,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "files/freeze-only.pdf"
+url_pdf = "files/Wang, Santistevan, et al.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

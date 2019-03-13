@@ -43,7 +43,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "files/neonatal-adult-amygdala.pdf"
+url_pdf = "files/Bliss-Moreau, Moadab, Santistevan, & Amaral.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

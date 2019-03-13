@@ -13,10 +13,10 @@ role = "Ph.D. Student"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "University of California, Davis", url = "" } ]
+organizations = [ { name = "Bliss-Moreau Lab", url = "https://www.elizablissmoreau.com/" }, { name = "University of California, Davis", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include distributed robotics, mobile computing and programmable matter."
+bio = ""
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
@@ -83,4 +83,4 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-Anthony is a second-year doctoral student in Dr. Eliza Bliss-Moreau's laboratory at UC Davis. His research focuses on the neurobiology of socio-affective behavior. Prior to embarking on his PhD, he previously worked as a data scientist in the health-tech world analyzing data related to fertility and oncology.
+Anthony is a second-year doctoral student in Dr. Eliza Bliss-Moreau's laboratory at UC Davis. His research focuses on how aging infulences socioaffective behavior.

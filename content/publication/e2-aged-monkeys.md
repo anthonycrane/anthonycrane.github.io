@@ -43,7 +43,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "files/e2-aged-monkeys.pdf"
+url_pdf = "files/Baxter, Santistevan, Bliss-Moreau, & Morrison.pdf"
 url_preprint = "https://www.biorxiv.org/content/early/2018/01/17/248963"
 url_code = ""
 url_dataset = ""
