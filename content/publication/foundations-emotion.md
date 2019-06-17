@@ -1,6 +1,6 @@
 +++
 title = "The immutability of valence and arousal in the foundations of emotion"
-date = 2019-02-01T12:50:03-07:00
+date = 2019-03-01T12:50:03-07:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -50,7 +50,7 @@ url_dataset = ""
 url_project = ""
 url_slides = ""
 url_video = ""
-url_poster = ""
+url_poster = "files/Santistevan, Williams, & Bliss-Moreau.pdf"
 url_source = ""
 
 # Custom links (optional).
